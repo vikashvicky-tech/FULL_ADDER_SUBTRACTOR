@@ -43,6 +43,7 @@ Borrow out = A'Bin + A'B + BBin
 Write the detailed procedure here
 
 **Program:**
+
 FULL ADDER:
 ```
 module exp4a(a,b,cin,sum,carry);
