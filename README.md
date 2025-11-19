@@ -63,6 +63,7 @@ endmodule
 ```
 
 **RTL Schematic:**
+
 FULL ADDER:
 <img width="1735" height="846" alt="image" src="https://github.com/user-attachments/assets/1e4be2c1-951c-4931-a907-1e4dab924828" />
 
@@ -70,6 +71,7 @@ FULL SUBTRACTOR:
 <img width="1708" height="827" alt="image" src="https://github.com/user-attachments/assets/664c26dd-815a-4926-9e91-f787271b3322" />
 
 **Output Timing Waveform:**
+
 FULL ADDER:
 <img width="1919" height="362" alt="image" src="https://github.com/user-attachments/assets/c18d3551-89fb-4e40-bca6-0e701f453a14" />
 
